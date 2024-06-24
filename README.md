@@ -2,6 +2,11 @@
 
 Este projeto é um formulário de contato simples desenvolvido em HTML, CSS e PHP. Foi criado como uma tentativa de compreender melhor o processo de desenvolvimento backend e o envio de dados através de formulários web.
 
+**Há capturas de telas nos arquivos**
+- formulario.png : Tela de envio
+- adm.png: Tela de acesso às mensagens
+- msg.png: Tela de acesso com as mensagens
+
 
 ## Objetivo do Projeto
 
